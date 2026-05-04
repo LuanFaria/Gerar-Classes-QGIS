@@ -1,0 +1,8 @@
+[general]
+name=classes_luan
+description=Calcula IDADE_IMG e CLASSE automaticamente
+version=1.0
+qgisMinimumVersion=3.0
+author=Luan Faria
+email=luanfari@gmail.com
+about=Plugin para gerar as colunas OBS_IMG, DATA_IMG, IDADE_IMG e CLASSE automáticamente, dedicado a todos os meus fãs (Victória Roberta e Victória Vagner)
